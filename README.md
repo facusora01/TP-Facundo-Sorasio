@@ -31,6 +31,6 @@ cmd /c mix test
 ```
 
 
-## Más info
+## Modelado
 
 El modelado del sistema se encuentra en [Modelo.md](Modelo.md).
